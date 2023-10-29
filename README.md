@@ -1,4 +1,4 @@
-# yolo_D6D6b_road_signs
+# yolov5_D6D6b_road_signs
 ![Image Alt text](F1_curve.png)
 ![Image Alt text](PR_curve.png)
 ![Image Alt text](P_curve.png)
