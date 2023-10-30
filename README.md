@@ -8,6 +8,7 @@ This repository contains a custom-trained [YOLOv5](https://github.com/ultralytic
 The model has been trained on a specific dataset, which is not included in this repository. You can train a similar model on your own dataset by following the instructions in the [YOLOv5](https://github.com/ultralytics/yolov5) repository.
 
 ## Results
+In this [video](https://youtu.be/rY7Wn2IsCBw) you can see how it works.
 The model's performance on the training and validation datasets is showcased below:
 
 ![Image Alt text](F1_curve.png)
