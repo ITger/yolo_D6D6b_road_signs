@@ -5,7 +5,7 @@ This repository contains a custom-trained [YOLOv5](https://github.com/ultralytic
 [YOLOv5](https://github.com/ultralytics/yolov5) is an efficient, real-time object detection system that is widely used for a variety of computer vision tasks. This custom-trained model can be used for road sign detection, which has various practical applications in the field of autonomous vehicles, traffic management, and safety.
 
 ## Training
-The model has been trained on a specific dataset, which is not included in this repository. You can train a similar model on your own dataset by following the instructions in the [YOLOv5](https://github.com/ultralytics/yolov5) repository.
+The model has been trained on a custom dataset, which is not included in this repository. You can train a similar model on your own dataset by following the instructions in the [YOLOv5](https://github.com/ultralytics/yolov5) repository.
 
 ## Results
 In this [video](https://youtu.be/rY7Wn2IsCBw) you can appreciate how it works.
