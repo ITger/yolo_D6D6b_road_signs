@@ -12,12 +12,6 @@ In this [video](https://youtu.be/rY7Wn2IsCBw) you can appreciate how it works.
 The model's performance on the training and validation datasets is showcased below:
 
 ![Image Alt text](F1_curve.png)
-![Image Alt text](PR_curve.png)
-![Image Alt text](P_curve.png)
-![Image Alt text](R_curve.png)
-![Image Alt text](confusion_matrix.png)
-![Image Alt text](labels.jpg)
-![Image Alt text](labels_correlogram.jpg)
 ![Image Alt text](results.png)
 ![Image Alt text](train_batch0.jpg)
 ![Image Alt text](train_batch1.jpg)
